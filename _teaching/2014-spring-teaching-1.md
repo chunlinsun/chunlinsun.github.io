@@ -2,7 +2,7 @@
 title: ""
 collection: teaching
 type: "Undergraduate course"
-permalink: 、
+permalink: /
 ---
 
 I was a teaching assistant for the following Stanford courses.
