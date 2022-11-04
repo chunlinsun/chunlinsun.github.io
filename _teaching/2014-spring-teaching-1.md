@@ -1,8 +1,11 @@
 ---
 title: ""
 collection: teaching
-type: "Stanford course"
+type: "U"
 permalink: /
+venue: ""
+date: 
+location: 
 ---
 
 I was a teaching assistant for the following Stanford courses.
