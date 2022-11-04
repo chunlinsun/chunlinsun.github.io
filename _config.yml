@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chunlin Sun"
 title_separator          : "-"
 name                     : &name "Chunlin Sun"
-description              : &description "Ph.D. candidate at ICME\n stanford"
+description              : &description "Ph.D. candidate, Stanford ICME"
 url                      : https://chunlinsun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chunlinsun/chunlinsun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chunlin Sun"
   avatar           : "profile.png"
-  bio              : "Ph.D. candicate, stanford ICME"
+  bio              : "Ph.D. candicate, Stanford ICME"
   location         : "Stanford, California"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
