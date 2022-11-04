@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: teaching
-type: "U"
+type: ""
 permalink: /
 venue: ""
 date: 
