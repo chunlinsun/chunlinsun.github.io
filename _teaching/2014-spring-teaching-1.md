@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: teaching
-type: "Undergraduate course"
+type: "Stanford course"
 permalink: /
 ---
 
