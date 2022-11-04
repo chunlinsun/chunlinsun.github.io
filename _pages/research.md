@@ -12,7 +12,7 @@ redirect_from:
  With Shang Liu and Xiaocheng Li\
  Draft available soon.
 - **Stochastic Inverse Optimization** \
-  With Shang Liu and Xiaocheng Li\
+  With John Birge and Xiaocheng Li\
   Draft available soon.
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
   With John Birge and Xiaocheng Li\
