@@ -1,3 +1,5 @@
+I was a teaching assistant for the following Stanford courses.
+
 ---
 title: ""
 collection: teaching
@@ -7,8 +9,6 @@ venue: "Stanford University"
 date: 2020-01-01
 location: "City, Country"
 ---
-
-I was a teaching assistant for the following Stanford courses.
 
 - Optimization Algorithms (CS 369O/ CME 334/ MS\&E 312)  
   * PhD-level course
