@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chunlin Sun"
   avatar           : "profile.png"
-  bio              : "Ph.D. candicate at ICME, stanford"
+  bio              : "Ph.D. candicate, stanford ICME"
   location         : "Stanford, California"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ"
-  email            : "mailto:chunlin@stanford.edu"
+  email            : "chunlin@stanford.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7389-4808"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
