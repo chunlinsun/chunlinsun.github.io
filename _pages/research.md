@@ -22,7 +22,7 @@ redirect_from:
  [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
 - **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
  With Xiaocheng Li and Yinyu Ye \
- [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html) (Long version at [Mathematical Programming](https://link-springer-com.stanford.idm.oclc.org/article/10.1007/s10107-022-01880-x)) 
+ [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html) (Long version at [Mathematical Programming](https://link.springer.com/article/10.1007/s10107-022-01880-x)) 
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
  With Guanting Chen, Johann Demetrio Gaebler, Matt Peng and Yinyu Ye\
  Working paper.
