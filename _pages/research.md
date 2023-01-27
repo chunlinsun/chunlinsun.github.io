@@ -9,15 +9,15 @@ redirect_from:
 * * *
 
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming**[\[arXiv\]](https://arxiv.org/abs/2301.11260) \
- With Shang Liu and Xiaocheng Li\
+ With Shang Liu and Xiaocheng Li \
 - **Stochastic Inverse Optimization** \
-  With John Birge and Xiaocheng Li\
+  With John Birge and Xiaocheng Li \
   Draft available soon.
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
-  With John Birge and Xiaocheng Li\
+  With John Birge and Xiaocheng Li \
   NeurIPS 2022.
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
- With Xiaocheng Li and Yinyu Ye\
+ With Xiaocheng Li and Yinyu Ye \
  [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
 - **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
  With Xiaocheng Li and Yinyu Ye \
