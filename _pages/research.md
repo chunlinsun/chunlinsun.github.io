@@ -8,7 +8,7 @@ redirect_from:
 ---
 * * *
 
-- **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming**[\[arXiv\]](https://arxiv.org/abs/2301.11260) \
+- **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li 
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
   With John Birge and Xiaocheng Li 
