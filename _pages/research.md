@@ -26,8 +26,8 @@ redirect_from:
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
  With Guanting Chen, Johann Demetrio Gaebler, Matt Peng and Yinyu Ye\
  Working paper.
-- **Boosting Method in Approximately Solving Linear Programming with Fast Online Algorithm** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
- With Wenzhi Gao, Yuyang Ye and Yinyu Ye\
+- **Fast Online Algorithms for Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
+ With Wenzhi Gao, Dongdong Ge and Yinyu Ye\
  Working paper.\
 \
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
