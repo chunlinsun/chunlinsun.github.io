@@ -10,9 +10,8 @@ redirect_from:
 
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming**[\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li 
-- **Stochastic Inverse Optimization** \
-  With John Birge and Xiaocheng Li \
-  Draft available soon.
+- **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
+  With John Birge and Xiaocheng Li 
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
   With John Birge and Xiaocheng Li \
   NeurIPS 2022.
