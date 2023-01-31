@@ -14,7 +14,7 @@ redirect_from:
   With John Birge and Xiaocheng Li 
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
   With John Birge and Xiaocheng Li \
-  NeurIPS 2022.
+  [NeurIPS 2022.](https://openreview.net/forum?id=fKXiO9sLubb)
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
  With Xiaocheng Li and Yinyu Ye \
  [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
