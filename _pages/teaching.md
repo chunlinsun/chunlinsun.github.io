@@ -7,7 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
-I was a teaching assistant for the following Stanford courses.
+I have been a teaching assistant for the following Stanford courses.
 
 - Optimization Algorithms (CS 369O/ CME 334/ MS&E 312)  
   * PhD-level course
