@@ -19,5 +19,5 @@ I have been a teaching assistant for the following Stanford courses.
   * undergraduate-level course
   * taught in Fall 2021
 - Optimization (MS&E 311/ CME 307)
-  * core course for PhD students in ICME
+  * core course for ICME PhD students
   * taught in Winter 2020, Winter 2021 and Spring 2023
