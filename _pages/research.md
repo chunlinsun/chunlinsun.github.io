@@ -9,7 +9,11 @@ redirect_from:
 * * *
 
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
- With Shang Liu and Xiaocheng Li 
+ With Shang Liu and Xiaocheng Li \
+ ICML 2023.
+- **Fast Online Algorithms for Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
+ With Wenzhi Gao, Dongdong Ge and Yinyu Ye\
+ ICML 2023.\
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
   With John Birge and Xiaocheng Li 
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
@@ -24,8 +28,5 @@ redirect_from:
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
  With Guanting Chen, Johann Demetrio Gaebler, Matt Peng and Yinyu Ye\
  Working paper.
-- **Fast Online Algorithms for Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
- With Wenzhi Gao, Dongdong Ge and Yinyu Ye\
- Working paper.\
 \
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
