@@ -21,7 +21,7 @@ redirect_from:
   [NeurIPS 2022.](https://openreview.net/forum?id=fKXiO9sLubb)
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
  With Xiaocheng Li and Yinyu Ye \
- [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (3% Long talk )
+ [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk, 3% of submissions )
 - **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
  With Xiaocheng Li and Yinyu Ye \
  [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html) (Long version at [Mathematical Programming](https://link.springer.com/article/10.1007/s10107-022-01880-x)) 
