@@ -1,13 +1,15 @@
 ---
 permalink: /research/
-title: "Publication and Work Papers"
+title: "Publications and Working Papers"
 excerpt: "research"
 author_profile: true
 redirect_from: 
   - /research.html
 ---
 * * *
-
+- **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
+ With Linyu Liu and Xiaocheng Li \
+ Working paper.
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li \
  ICML 2023.
