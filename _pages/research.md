@@ -10,11 +10,11 @@ redirect_from:
 - **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
  With Linyu Liu and Xiaocheng Li \
  Working paper.
+- **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
+ With Wenzhi Gao, Dongdong Ge, and Yinyu Ye\
+ ICML 2023.
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li \
- ICML 2023.
-- **Fast Online Algorithms for Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
- With Wenzhi Gao, Dongdong Ge and Yinyu Ye\
  ICML 2023.
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
   With John Birge and Xiaocheng Li 
