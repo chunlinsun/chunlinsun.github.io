@@ -11,7 +11,7 @@ redirect_from:
  With Linyu Liu and Xiaocheng Li \
  Working paper.
 - **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
- With Wenzhi Gao, Dongdong Ge, and Yinyu Ye\
+ (\alpha-\beta) Wenzhi Gao, Dongdong Ge, Chunlin Sun, and Yinyu Ye\
  ICML 2023.
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li \
