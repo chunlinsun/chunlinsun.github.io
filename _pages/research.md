@@ -8,10 +8,10 @@ redirect_from:
 ---
 * * *
 - **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
- With Linyu Liu and Xiaocheng Li \
+ Chunlin Sun, Linyu Liu, Xiaocheng Li \
  Working paper.
 - **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
- (\alpha-\beta) Wenzhi Gao, Dongdong Ge, Chunlin Sun, and Yinyu Ye\
+ ($\alpha$-$\beta$) Wenzhi Gao, Dongdong Ge, Chunlin Sun, Yinyu Ye\
  ICML 2023.
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  With Shang Liu and Xiaocheng Li \
