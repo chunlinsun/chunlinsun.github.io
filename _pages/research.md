@@ -17,7 +17,7 @@ redirect_from:
  Chunlin Sun, Shang Liu, Xiaocheng Li \
  ICML 2023.
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
-  ($\alpha$-$\beta$) With John Birge and Xiaocheng Li 
+  ($\alpha$-$\beta$) John Birge and Xiaocheng Li 
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
   ($\alpha$-$\beta$) John Birge, Xiaocheng Li, Chunlin Sun\
   [NeurIPS 2022.](https://openreview.net/forum?id=fKXiO9sLubb)
