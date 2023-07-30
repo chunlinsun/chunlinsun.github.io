@@ -7,6 +7,8 @@ redirect_from:
   - /research.html
 ---
 * * *
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
+\
 - **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
  ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang 
 - **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
@@ -31,5 +33,4 @@ redirect_from:
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
 ($\alpha$-$\beta$) Guanting Chen, Johann Demetrio Gaebler, Matt Peng, Chunlin Sun, Yinyu Ye\
  Working paper.
-\
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
+
