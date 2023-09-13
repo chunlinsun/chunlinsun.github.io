@@ -17,10 +17,10 @@ The following articles are in reverse chronological order. You can also find my 
  Chunlin Sun, Linyu Liu, Xiaocheng Li 
 - **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
  ($\alpha$-$\beta$) Wenzhi Gao, Dongdong Ge, Chunlin Sun, Yinyu Ye\
- ICML 2023.
+ [ICML 2023.](https://proceedings.mlr.press/v202/gao23a.html)
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  Chunlin Sun, Shang Liu, Xiaocheng Li \
- ICML 2023.
+ [ICML 2023.](https://proceedings.mlr.press/v202/sun23e)
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
   ($\alpha$-$\beta$) John Birge, Xiaocheng Li, Chunlin Sun
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
