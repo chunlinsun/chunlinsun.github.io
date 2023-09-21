@@ -14,7 +14,8 @@ The following articles are in reverse chronological order. You can also find my 
 - **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
  ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang 
 - **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
- Chunlin Sun, Linyu Liu, Xiaocheng Li 
+ Chunlin Sun, Linyu Liu, Xiaocheng Li \
+NeurIPS 2023.
 - **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
  ($\alpha$-$\beta$) Wenzhi Gao, Dongdong Ge, Chunlin Sun, Yinyu Ye\
  [ICML 2023.](https://proceedings.mlr.press/v202/gao23a.html)
