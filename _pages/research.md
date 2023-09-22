@@ -30,10 +30,10 @@ The following articles are in reverse chronological order. You can also find my 
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
  ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
  [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
-- **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
- ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
- [Mathematical Programming 2022](https://link.springer.com/article/10.1007/s10107-022-01880-x) (Preliminary version on [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html))
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
 ($\alpha$-$\beta$) Guanting Chen, Johann Demetrio Gaebler, Matt Peng, Chunlin Sun, Yinyu Ye\
  AAAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.
+- **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
+ ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
+ [Mathematical Programming 2022](https://link.springer.com/article/10.1007/s10107-022-01880-x) (Preliminary version on [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html))
 
