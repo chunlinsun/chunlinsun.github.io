@@ -35,5 +35,5 @@ The following articles are in reverse chronological order. You can also find my 
  [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html) (Long version at [Mathematical Programming 2022](https://link.springer.com/article/10.1007/s10107-022-01880-x)) 
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
 ($\alpha$-$\beta$) Guanting Chen, Johann Demetrio Gaebler, Matt Peng, Chunlin Sun, Yinyu Ye\
- AAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.
+ AAAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.
 
