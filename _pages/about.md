@@ -13,4 +13,4 @@ I am a Ph.D. candidate in the Institute for Computational and Mathematical Engin
 
 **Email:** [chunlin@stanford.edu](mailto:chunlin@stanford.edu)
 
-**Research interest:** My research interests lie broadly at the intersection of data-driven optimization, decision-making under uncertainty, and machine learning with a primary focus on the following: 1) sequential decision-making under uncertainty and online algorithms, 2) linear optimization for operations decision-making, and 3) machine learning-related problems, such as human-AI interaction and reinforcement learning. 
+**Research interest:** My research interests lie broadly at the intersection of data-driven optimization, decision-making under uncertainty, and machine learning with a primary focus on the following: 1) sequential decision-making under uncertainty and online algorithms, 2) linear optimization for algorithms and applications for operational decision-making, and 3) machine learning theory and methodology, such as reinforcement learning and human-AI interaction.
