@@ -29,7 +29,7 @@ The following articles are in reverse chronological order. You can also find my 
   [NeurIPS 2022.](https://openreview.net/forum?id=fKXiO9sLubb)
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
 ($\alpha$-$\beta$) Guanting Chen, Johann Demetrio Gaebler, Matt Peng, Chunlin Sun, Yinyu Ye\
- AAAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.
+ [AAAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.](http://aaai-rlg.mlanctot.info/sched.html)
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
  ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
  [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
