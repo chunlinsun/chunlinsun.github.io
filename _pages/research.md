@@ -21,22 +21,22 @@ The following articles are in reverse chronological order. You can also find my 
  NeurIPS 2023.
 - **Solving Linear Programs with Fast Online Learning Algorithms** [\[arXiv\]](https://arxiv.org/abs/2107.03570) \
  ($\alpha$-$\beta$) Wenzhi Gao, Dongdong Ge, Chunlin Sun, Yinyu Ye\
- [ICML 2023.](https://proceedings.mlr.press/v202/gao23a.html)
+  ICML 2023.
 - **Maximum Optimality Margin: A Unified Approach for Contextual Linear Programming and Inverse Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2301.11260) \
  Chunlin Sun, Shang Liu, Xiaocheng Li \
- [ICML 2023.](https://proceedings.mlr.press/v202/sun23e)
+  ICML 2023.
 - **Stochastic Inverse Optimization** [\[Draft\]](https://github.com/chunlinsun/chunlinsun.github.io/blob/master/files/Stochastic_Inverse_Optimization.pdf)\
   ($\alpha$-$\beta$) John Birge, Xiaocheng Li, Chunlin Sun
 - **Learning from Stochastically Revealed Preference** [\[arXiv\]](https://arxiv.org/abs/2206.01484)\
   ($\alpha$-$\beta$) John Birge, Xiaocheng Li, Chunlin Sun\
-  [NeurIPS 2022.](https://openreview.net/forum?id=fKXiO9sLubb)
+  NeurIPS 2022.
 - **An Adaptive State Aggregation Algorithm for Markov Decision Processes** [\[arXiv\]](https://arxiv.org/abs/2107.11053)\
 ($\alpha$-$\beta$) Guanting Chen, Johann Demetrio Gaebler, Matt Peng, Chunlin Sun, Yinyu Ye\
- [AAAI Workshop on Reinforcement Learning in Games Virtual Workshop, 2022.](http://aaai-rlg.mlanctot.info/sched.html)
+AAAI Workshop on Reinforcement Learning in Games Virtual, 2022.
 - **The Symmetry between Arms and Knapsacks: A Primal-Dual Approach for Bandits with Knapsacks** [\[arXiv\]](https://arxiv.org/abs/2102.06385) \
  ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
- [ICML 2021.](https://icml.cc/virtual/2021/poster/9151) (Long talk)
+  ICML 2021. (Long talk)
 - **Simple and fast algorithm for binary integer and online linear programming** [\[arXiv\]](https://arxiv.org/abs/2003.02513) \
  ($\alpha$-$\beta$) Xiaocheng Li, Chunlin Sun, Yinyu Ye \
- [Mathematical Programming 2022](https://link.springer.com/article/10.1007/s10107-022-01880-x) (Preliminary version on [NeurIPS 2020.](https://nips.cc/virtual/2020/public/poster_6abba5d8ab1f4f32243e174beb754661.html))
+  Mathematical Programming 2022 (Preliminary version on NeurIPS 2020.)
 
