@@ -10,13 +10,14 @@ redirect_from:
 * * *
 The following articles are in reverse chronological order. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
 
+- **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
+ ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang 
+AISTATS 2024.
 - **Learning to Make Adherence-Aware Advice** [\[arXiv\]](https://arxiv.org/abs/2310.00817) \
 ($\alpha$-$\beta$) Guanting Chen, Xiaocheng Li, Chunlin Sun, Hanzhao Wang \
 ICLR 2024.
 - **Learning While Repositioning in On-Demand Vehicle Sharing Networks** [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140449) \
 ($\alpha$-$\beta$) Hansheng Jiang, Shunan Jiang, Zuo-Jun Max Shen, Chunlin Sun
-- **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
- ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang 
 - **Predict-then-Calibrate: A New Perspective of Robust Contextual LP** [\[arXiv\]](https://arxiv.org/abs/2305.15686) \
  Chunlin Sun, Linyu Liu, Xiaocheng Li \
  NeurIPS 2023.
