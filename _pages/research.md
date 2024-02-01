@@ -11,7 +11,7 @@ redirect_from:
 The following articles are in reverse chronological order. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
 
 - **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
- ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang 
+ ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang \
 AISTATS 2024.
 - **Learning to Make Adherence-Aware Advice** [\[arXiv\]](https://arxiv.org/abs/2310.00817) \
 ($\alpha$-$\beta$) Guanting Chen, Xiaocheng Li, Chunlin Sun, Hanzhao Wang \
