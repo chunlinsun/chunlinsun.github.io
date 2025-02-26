@@ -9,9 +9,9 @@ redirect_from:
 * * *
 The following articles are in reverse chronological order. You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&user=2MMNRmoAAAAJ).
 
-- **Decoupling Learning and Decision-Making: Breaking the $O(\sqrt{T})$ Barrier in Online Resource Allocation with First-Order Methods** [\[arXiv\]](https://arxiv.org/abs/2402.07108) \
-  Wenzhi Gao, Chunlin Sun, Chenyu Xue, Dongdong Ge, Yinyu Ye \
-  ICML 2024.
+- **Beyond $O(\sqrt{T})$ Regret: Decoupling Learning and Decision-making in Online Linear Programming** [\[arXiv\]](https://arxiv.org/abs/2501.02761) \
+  ($\alpha$-$\beta$) Wenzhi Gao, Dongdong Ge, Chunlin Sun, Chenyu Xue, Yinyu Ye \
+  [\[Short version\]](https://openreview.net/pdf?id=1DyruVvVaQ) is on ICML 2024.
 - **When No-Rejection Learning is Optimal for Regression with Rejection** [\[arXiv\]](https://arxiv.org/abs/2307.02932) \
  ($\alpha$-$\beta$) Xiaocheng Li, Shang Liu, Chunlin Sun, Hanzhao Wang \
 AISTATS 2024.
